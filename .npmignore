@@ -1,0 +1,7 @@
+.*
+src
+test
+tasks
+
+gruntfile.js
+karma.conf.js

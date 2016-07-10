@@ -1,0 +1,11 @@
+{
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "test": true,
+    "MockSocket": true,
+    "sinon": true,
+    "Emitter": true,
+  }
+}
